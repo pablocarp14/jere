@@ -1,18 +1,17 @@
-
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name=" Telefe HD (ARG)" tvg-logo="https://canales.online/img/logo_canal/Nacionales/Telefe.png" group-title="Argentina (Exclusivos)",Telefe HD (ARG)
+#EXTINF:-1 tvg-id="AR - Telefe" tvg-name="Telefe HD (ARG)" tvg-logo="https://img.tvcl.xyz/argentina/telefe.png" group-title="Argentina",Telefe HD (ARG)
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name=" Canal 9 HD (ARG)" tvg-logo="https://canales.online/img/logo_canal/Nacionales/Canal_9.png" group-title="Argentina (Exclusivos)",Canal 9 HD (ARG)
+#EXTINF:-1 tvg-id="AR - Canal 9" tvg-name="El Nueve HD (ARG)" tvg-logo="https://img.tvcl.xyz/argentina/elnueve.png" group-title="Argentina",El Nueve HD (ARG)
 https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/0df6d88d-304a-4d15-9cf8-eab1bc9b5e45/3.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name=" America HD (ARG)" tvg-logo="https://canales.online/img/logo_canal/America_TV_Nuevo_logo_Junio_2020-e1632236317216/Nacionales/.png" group-title="Argentina (Exclusivos)",America HD (ARG)
+#EXTINF:-1 tvg-id="AR - América TV" tvg-name="America TV HD (ARG)" tvg-logo="https://img.tvcl.xyz/argentina/americatv.png" group-title="Argentina",America TV HD (ARG)
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name=" TyC Sport HD (ARG)" tvg-logo="https://pelotalibre.com/img/logo-canal/Deportes/TYC_Sports.webp" group-title="Argentina (Exclusivos)",TYC Sport HD (ARG)
+#EXTINF:-1 tvg-id="AR - TyC Sports" tvg-name="TyC Sports HD (ARG)" tvg-logo="https://img.tvcl.xyz/deportes/tyc.png" group-title="Deportes" ,TyC Sports HD (ARG)
 https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" Telemax HD (ARG)" tvg-logo="https://canales.online/img/logo_canal/Culturales/TLX.png" group-title="Argentina (Exclusivos)",Telemax HD (ARG)
+#EXTINF:-1 tvg-id="AR - Telemax" tvg-name=" Telemax HD (ARG)" tvg-logo="https://canales.online/img/logo_canal/TLX.png" group-title="culturales" ,Telemax HD (ARG)
 https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w186437136_b864000_sleng.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" Argentinisima Satelital (ARG)" tvg-logo="https://canales.online/img/Interes general/argentinisima_satelital.png" group-title="Argentina (Exclusivos)",Argentinisima Satelital (ARG)
 https://stream1.sersat.com/hls/argentinisima.m3u8
