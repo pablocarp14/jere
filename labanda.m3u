@@ -14,7 +14,7 @@ https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_4.m3u8
 #EXTINF:-1 tvg-id="AR - Telemax" tvg-name=" Telemax HD (ARG)" tvg-logo="https://canales.online/img/logo_canal/TLX.png" group-title="culturales" ,Telemax HD (ARG)
 https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w186437136_b864000_sleng.m3u8
-#EXTINF:-1 tvg-id="AR - Argentinisima Satelital" tvg-name=" Argentinisima Satelital (ARG)" tvg-logo="https://canales.online/img/argentinisima_satelital.png" group-title="Argentina",Argentinisima Satelital (ARG)
+#EXTINF:-1 tvg-id="AR - Argentinisima Satelital" tvg-name=" Argentinisima Satelital (ARG)" tvg-logo="https://canales.online/img/argentinisima_satelital.png" group-title="Argentina",Argentinisima Satelital (AR)
 https://stream1.sersat.com/hls/argentinisima.m3u8
 #EXTINF:-1 tvg-id="AR - Canal 26" tvg-name=" Canal 26 HD (ARG)" tvg-logo="https://canales.online/img/logo_canal/descarga-1-e1632236447258.png" group-title="Noticias",Canal 26 HD (ARG)
 http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
@@ -24,3 +24,14 @@ https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 https://videosenlared.fullstreaming.ar:3697/live/contenidos34live.m3u8
 #EXTINF:-1 tvg-id="AR - IP Noticias" tvg-name=" IP Noticias (ARG)" tvg-logo="https://img.ip.digital/sites/default/files/styles/1_1_max_364px/theme/ip_theme/media/ip_logo.png?itok=gzTn1Jjd" group-title="Noticias",IP Noticias (ARG)
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=2800000.m3u8
+#EXTINF:-1 tvg-id="AR - Ciudad Magica TV" tvg-name=" Ciudad Magica TV (ARG)" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/weVy6A9B_400x400_5.jpg?itok=sDiKxzuU" group-title="Argentina",Ciudad Magica TV (ARG)
+https://videosenlared.fullstreaming.ar:3501/live/grupocitylive.m3u8
+#EXTINF:-1 tvg-id="AR - Neo TV Digital" tvg-name="Neo TV Digital (ARG)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3L0FJdVWsZ91geduIG7z2wyKPjLh2cpaQIPFuNUpgSA&s" group-title="Argentina",Neo TV Digital (ARG)
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+#EXTINF:-1 tvg-id="AR - Bayres TV" tvg-name="Bayres TV HD (ARG)" tvg-logo="https://www.bayrestv.com.ar/assets/logo-bayres-tv.png" group-title="Argentina",Bayres TV HD (ARG)
+https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
+#EXTINF:-1 tvg-id="AR - La Poderosa TV" tvg-name="La Poderosa TV (ARG)" tvg-logo="https://radiotvlapoderosa.com.ar/imagenes/banner.png" group-title="Argentina",La Poderosa TV (ARG)
+https://videostream.shockmedia.com.ar:19360/fmlapoderosaavellaneda01/fmlapoderosaavellaneda01.m3u8
+#EXTINF:-1 tvg-id="AR - TerraMia TV" tvg-name="TerraMia TV (ARG)" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/298052f7d0c144e82b2750ad55289082.webp" group-title="Cultural",TerraMia TV (ARG)
+http://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
+
