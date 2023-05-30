@@ -32,6 +32,7 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 #EXTINF:-1 tvg-id="AR - La Poderosa TV" tvg-name="La Poderosa TV (ARG)" tvg-logo="https://radiotvlapoderosa.com.ar/imagenes/banner.png" group-title="Argentina",La Poderosa TV (ARG)
 https://videostream.shockmedia.com.ar:19360/fmlapoderosaavellaneda01/fmlapoderosaavellaneda01.m3u8
-#EXTINF:-1 tvg-id="AR - TerraMia TV" tvg-name="TerraMia TV (ARG)" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/298052f7d0c144e82b2750ad55289082.webp" group-title="Cultural",TerraMia TV (ARG)
+#EXTINF:-1 tvg-id="AR - TerraMia TV" tvg-name="TerraMia TV (ARG)" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/298052f7d0c144e82b2750ad55289082.webp" group-title="Culturales",TerraMia TV (ARG)
 http://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
+
 
