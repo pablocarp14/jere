@@ -1,44 +1,14 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="AR - Telefe" tvg-name="Telefe HD (ARG)" tvg-logo="https://img.tvcl.xyz/argentina/telefe.png" group-title= "Nacionales", Telefe HD (ARG)
-https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
-
-#EXTINF:-1 tvg-id="AR - Canal 9" tvg-name="El Nueve HD (ARG)" tvg-logo="https://img.tvcl.xyz/argentina/elnueve.png" grupo- title="Nacionales",El Nueve HD (ARG)
-https://2a1773fcc0c94a639b422d1cf7ba14b7.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/7e2958c9-d494-45d0-8813-f1e6dbf0e688/0.m3u8
-
-#EXTINF:-1 tvg-id="AR - América TV" tvg-name="América TV HD (ARG)" tvg-logo="https://tvabierta.weebly.com/uploads/5/1/3/4/51344345/america-tv.png" grupo- title="Nacionales",América TV HD (ARG)
-https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
-
-#EXTINF:-1 tvg-id="AR - TyC Sports" tvg-name="TyC Sports HD (ARG)" tvg-logo="https://img.tvcl.xyz/deportes/tyc.png" grupo- title="Deportes" ,TyC Sports HD (ARG)
+#EXTINF:-1, tvg-name="Tyc Sports" tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="DEPORTES",TYC SPORTS
 https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_4.m3u8
-#EXTINF:-1 tvg-id="AR - Telemax" tvg-name="Telemax HD (ARG)" tvg-logo="https://canales.online/img/logo_canal/TLX.png" group-title= "Nacionales",Telemax (ARG
-https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w186437136_b864000_sleng.m3u8
-#EXTINF:-1 tvg-id="AR - Argentina Satelital" tvg-name="Argentinisima Satelital (ARG)" tvg-logo="https://canales.online/img/argentinisima_satelital.png" group-title=" Nacionales",Argentinisima Satelital (AR)
-https://stream1.sersat.com/hls/argentinisima.m3u8
-#EXTINF:-1 tvg-id="AR - Canal 26" tvg-name="Canal 26 HD (ARG)" tvg-logo="https://canales.online/img/logo_canal/descarga-1-e1632236447258. png" group-title="Noticias",Canal 26 HD (ARG)
-http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
-#EXTINF:-1 tvg-id="AR - Todo Noticias" tvg-name="Todo Noticias HD (ARG)" tvg-logo="https://canales.online/img/logo_canal/TN.png" grupo- title="Noticias",Todo Noticias HD (ARG)
-https://live-01-01-tn.vodgc.net/TN24/index.m3u8
-#EXTINF:-1 tvg-id="AR - City Sports TV" tvg-name=" City Sports TV (ARG)" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/ public/logos/ck2v-Vs1_400x400_0.jpg?itok=xnKY4UC0" group-title="Deportes",City Sports TV (ARG)
-https://videosenlared.fullstreaming.ar:3697/live/contenidos34live.m3u8
-#EXTINF:-1 tvg-id="AR - IP Noticias" tvg-name=" IP Noticias (ARG)" tvg-logo="https://img.ip.digital/sites/default/files/styles/1_1_max_364px/theme/ip_theme/media/ip_logo.png?itok=gzTn1Jjd" group-title="Noticias",IP Noticias (ARG)
-https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=2800000.m3u8
-#EXTINF:-1 tvg-id="AR - Ciudad Mágica TV" tvg-name=" Ciudad Mágica TV (ARG)" tvg-logo="https://latinartv.com/sites/default/files/styles/poster /public/logos/weVy6A9B_400x400_5.jpg?itok=sDiKxzuU" group-title="Nacionales",Ciudad Mágica TV (ARG)
-https://videosenlared.fullstreaming.ar:3501/live/grupocitylive.m3u8
-#EXTINF:-1 tvg-id="AR - Neo TV Digital" tvg-name="Neo TV Digital (ARG)" tvg-logo="https://tvabierta.weebly.com/uploads/5/1/3/4/51344345/neo-tv.png" group-title="Nacionales",Neo TV Digital (ARG)
-https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
-#EXTINF:-1 tvg-id="AR - Bayres TV" tvg-name="Bayres TV HD (ARG)" tvg-logo="https://tvabierta.weebly.com/uploads/5/1/3/4/51344345/bayres-tv.png" group-title="Nacionales",Bayres TV HD (ARG)
-https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
-#EXTINF:-1 tvg-id="AR - La Poderosa TV" tvg-name="La Poderosa TV (ARG)" tvg-logo="https://radiotvlapoderosa.com.ar/imagenes/banner.png" group-title="Nacionales",La Poderosa TV (ARG)
-https://videostream.shockmedia.com.ar:19360/fmlapoderosaavellaneda01/fmlapoderosaavellaneda01.m3u8
-#EXTINF:-1 tvg-id="AR - TerraMia TV" tvg-name="TerraMia TV (ARG)" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/298052f7d0c144e82b2750ad55289082.webp"group-title="Culturales",TerraMia TV (ARG)
-http://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AR - Canal 6 Mar del Plata" tvg-name="Canal 6 Mar del Plata (ARG)" tvg-logo="https://i0.wp.com/canal6mardelplata.com.ar/wp-content/uploads/2022/12/Logo-TRANSPARENTE.png?w=1042" group-title= "Nacionales", Canal 6 Mar del Plata (ARG)
-https://panel.dattalive.com:443/8166/8166/playlist.m3u8
-#EXTINF:-1 tvg-id="AR - Solidaria TV" tvg-name="Solidaria TV (ARG)" tvg-logo="https://www.solidariatv.com/wp-content/uploads/2022/11/logoweb2022.jpg" group-title= "Nacionales", Solidaria TV (ARG)
-https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
-#EXTINF:-1 tvg-id="AR - Cinco TV Tigre" tvg-name="Cinco TV Tigre (ARG)" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/09/Canal-5-Tigre-Tv-en-vivo-Online.png?resize=696%2C392&ssl=1" group-title= "Nacionales", Cinco TV Tigre (ARG)
-https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
-#EXTINF:-1 tvg-id="AR - Neox TV" tvg-name="Neox TV (ARG)" tvg-logo="https://play-lh.googleusercontent.com/xOkdlwpIeM1Do72p9sEkUjRGc83UJCAQA2bwBCvJak9h012FISHmUaJ2vp9Z4W1i6g=w240-h480-rw" group-title= "Nacionales", Neox TV (ARG)
-https://streamcasthd.com:19360/sonicaargentina/sonicaargentina.m3u8
+
+#EXTINF:-1, tvg-name="Vclassics tv" tvg-logo="https://i2.paste.pics/99cc893c37784a17aac9a95ac3c7e5c8.png" group-title="MUSICA",VCLASSICS TV
+https://5eaccbab48461.streamlock.net:1936/8112/8112/chunklist_w999019425.m3u8
+
+#EXTINF:-1, tvg-name="Vclassics tropical" tvg-logo="https://i2.paste.pics/355ba171055dd0e6747131673432cc18.png" group-title="MUSICA",VCLASSICS TROPICAL
+https://5eaccbab48461.streamlock.net:1936/8222/8222/chunklist_w1101803278.m3u8
+
+#EXTINF:-1, tvg-name="Xtrema retro cartoons" tvg-logo="https://xtrematv.com/wp-content/uploads/2022/05/logoRETROCARTOONS2-1.jpg" group-title="INFANTILES",XTREMA RETRO CARTOONS
+https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
 
 
